@@ -1,0 +1,5 @@
+This script is to install vim7.3 on Ubuntu10.4 or later. 
+It will comiple the latest version of vim. Install with python and ruby support
+--install
+chmod +x makevim.sh
+./makevim.sh
